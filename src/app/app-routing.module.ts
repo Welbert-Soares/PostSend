@@ -15,7 +15,7 @@ const routes: Routes = [
     component: CriarPensamentoComponent
   },
   {
-    path: "litarPensamento",
+    path: "listarPensamento",
     component: ListarPensamentoComponent
   },
 
