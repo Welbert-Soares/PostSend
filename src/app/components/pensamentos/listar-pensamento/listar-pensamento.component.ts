@@ -18,6 +18,11 @@ export class ListarPensamentoComponent implements OnInit {
       autoria: 'Componente filho',
       modelo: 'modelo1',
     },
+    {
+      conteudo: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam consequuntur molestiae illo. Modi expedita deserunt quae, architecto itaque nemo neque sequi laudantium sit obcaecati reprehenderit aut tempora tempore placeat aperiam maiores ea earum laboriosam deleniti sunt pariatur ad quam laborum voluptas! Velit tempore dolore ullam quas sit sapiente perspiciatis rem id aperiam beatae sunt maiores quaerat obcaecati, illo ratione nesciunt! Non soluta tempore voluptatem.',
+      autoria: 'Autor Desconhecido',
+      modelo: 'modelo3',
+    },
   ]
 
   constructor() { }
